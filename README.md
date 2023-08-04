@@ -1,7 +1,16 @@
 # Animating Form
 **Animating Form is a web project showcasing the use of HTML, SCSS, and JavaScript, with a focus on utilizing GSAP (GreenSock Animation Platform) to create captivating animations throughout the page. The main goal of this project is to demonstrate the power and potential of animations in enhancing user experience and engagement.**
 
-![Animation Magic](./images/Screenshot (209).png)
+<br>
+
+>[Live Demo](https://vivek-chhabra.github.io/Animating-Form)
+
+<br>
+
+![img-1](https://github.com/vivek-chhabra/Animating-Form/assets/105328667/3e148317-59eb-4650-9c77-ce167eeeee3f)
+
+<br>
+
 
 ## Technologies Used
 
